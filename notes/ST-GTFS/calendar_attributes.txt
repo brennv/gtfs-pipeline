@@ -1,0 +1,31 @@
+service_id,service_description
+125-A-Weekday-50,Weekday
+125-A-Weekday-50-SDon,Weekday
+125-A-Weekday-50-SDon-1110100,Mon Tue Wed Fri
+125-A-Weekday-50-SDon-0101000,Tue Thu
+125-A-Saturday-50,Saturday
+125-A-Sunday-50,Sunday
+125-C-Weekday-50,Weekday
+125-C-Weekday-50-SDon,Weekday
+125-C-Weekday-50-SDon-0010000,Wed
+125-C-Weekday-50-SDon-1110100,Mon Tue Wed Fri
+125-C-Weekday-50-SDon-0011000,Wed Thu
+125-C-Weekday-50-SDon-1101100,Mon Tue Thu Fri
+125-C-Weekday-50-SDon-0100000,Tue
+125-C-Weekday-50-SDon-1100100,Mon Tue Fri
+125-C-Weekday-50-SDon-1011100,Mon Wed Thu Fri
+125-C-Saturday-50,Saturday
+125-C-Sunday-50,Sunday
+125-D-Weekday-50,Weekday
+125-D-Weekday-50-SDon,Weekday
+125-D-Weekday-50-SDoff,Weekday
+125-D-Weekday-50-SDon-1110100,Mon Tue Wed Fri
+125-D-Weekday-50-SDon-1101100,Mon Tue Thu Fri
+125-D-Weekday-50-SDon-0001000,Thu
+125-D-Weekday-50-SDon-0010000,Wed
+125-D-Weekday-50-SDon-0011000,Wed Thu
+125-D-Weekday-50-SDon-1100100,Mon Tue Fri
+125-D-Weekday-50-SDon-1011100,Mon Wed Thu Fri
+125-D-Weekday-50-SDon-0100000,Tue
+125-D-Saturday-50,Saturday
+125-D-Sunday-50,Sunday
